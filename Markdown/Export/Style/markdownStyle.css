@@ -1,0 +1,52 @@
+table {
+  border-collapse: collapse;
+  /* width: 100%; */
+}
+
+table td, table th {
+  border: 1px solid #ccc;
+  padding: 7px;
+}
+
+/* table tr:nth-child(even){background-color: #f8f8f8;} */
+
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #f0f0f0;
+  font-weight: 400;
+  color: #444;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    background-color: #888;
+}
+
+blockquote > p {
+    padding: 0.5em 0px;
+    color: #444;
+    font-style: italic;
+}
+
+h2, h3, h4 {
+    margin-top: 1.5em;
+}
+
+:not(pre):not(.hljs) > code {
+    padding: .2em .4em;
+	margin: 0;
+	font-size: 85%;
+	background-color: #f3f3f3;
+	border-radius: 3px;
+    color: inherit;
+}
+
+pre:not(.hljs), pre.hljs code > div {
+	padding-right: 0.5em;
+    padding-left: 0.5em;
+}
