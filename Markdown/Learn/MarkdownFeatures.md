@@ -229,7 +229,7 @@ INSERT CODE HERE
     let myVar = 0;
     ```
 
-You can see a [list of language](https://docs.microsoft.com/en-us/contribute/how-to-write-use-markdown#code-snippets) that could have syntax highlight.
+You can see a [list of language](https://github.com/highlightjs/highlight.js) that could have syntax highlight.
 
 ### Result
 
