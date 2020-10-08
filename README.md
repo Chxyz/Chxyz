@@ -17,7 +17,7 @@ I use [VSCodium](https://github.com/VSCodium/vscodiu) as text/code editor. It's 
 
 ## Extensions
 
-Here are some of the extensions I use
+Here are some of the extensions I use :
 
 - [formulahendry.auto-close-tag](https://github.com/formulahendry/vscode-auto-close-tag)
 - [hookyqr.beautify](https://github.com/HookyQR/VSCodeBeautify)
