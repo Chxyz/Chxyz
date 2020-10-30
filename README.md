@@ -13,7 +13,7 @@ Development tools, documentations or snippets I use in my personal projects.
 
 # IDE
 
-I use [VSCodium](https://github.com/VSCodium/vscodiu) as text/code editor. It's a *Free/Libre Open Source Software Binaries of VSCode* ...
+I use [VSCodium](https://github.com/VSCodium/vscodium) as text/code editor. It's a *Free/Libre Open Source Software Binaries of VSCode* ...
 
 ## Extensions
 
